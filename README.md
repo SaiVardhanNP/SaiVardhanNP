@@ -21,10 +21,10 @@
 
 ### 📌 Featured Projects
 
-- 🔹 [**QualiChat**](https://github.com/SaiVardhanNP/QualiChat): A WhatsApp-style AI chatbot for lead qualification  
+- 🔹 [**QualiChat**](https://github.com/SaiVardhanNP/ChatBasedAgent): A WhatsApp-style AI chatbot for lead qualification  
   _React, Tailwind CSS, Node.js, Gemini API_
 
-- 🔹 [**SmartTrip AI**](https://github.com/SaiVardhanNP/SmartTripAI): AI-based travel planner with itinerary generator  
+- 🔹 [**SmartTrip AI**](https://github.com/SaiVardhanNP/ai-travel-planner): AI-based travel planner with itinerary generator  
   _React, Firebase, Gemini_
 
 - 🔹 [**PhishGuardian**](https://github.com/SaiVardhanNP/PhishGuardian): ML-based phishing detection web app  
