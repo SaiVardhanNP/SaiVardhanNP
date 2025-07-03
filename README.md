@@ -38,25 +38,4 @@
 - 🔮 Next.js App Router & API integrations
 - 📈 Building scalable GenAI applications
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVardhanNP&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SaiVardhanNP&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiVardhanNP&theme=radical" />
-</p>
-
----
-
-### 📈 Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiVardhanNP&style=flat-square&color=blue" alt="Profile views" />
-</p>
