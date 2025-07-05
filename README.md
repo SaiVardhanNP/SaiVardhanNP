@@ -44,9 +44,6 @@
 🔹 [**PhishGuardian**](https://github.com/SaiVardhanNP/PhishGuardian) – ML-based phishing detection system  
 > _Python, Flask, scikit-learn_
 
-🔹 [**GenAI Stack**](https://github.com/SaiVardhanNP) – No-Code LLM-based workflow builder (WIP)  
-> _React Flow, FastAPI, ChromaDB, Gemini_
-
 ---
 
 ### 📚 Currently Learning
