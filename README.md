@@ -35,14 +35,14 @@
 
 ### 🧩 Featured Projects
 
-🔹 [**QualiChat**](https://github.com/SaiVardhanNP/ChatBasedAgent) – WhatsApp-style AI chatbot for lead qualification  
-> _React, Tailwind, Node.js, Gemini API_
+🔹 [**Questly**](https://ai-interview-prep-p31c28oro.vercel.app/) – AI-powered interview preparation platform with tailored Q&A  
+> _React, Tailwind, Node.js, Express.js, MongoDB, Gemini API, Cloudinary_
 
-🔹 [**SmartTrip AI**](https://github.com/SaiVardhanNP/ai-travel-planner) – AI travel planner with smart itineraries  
-> _React, Firebase, Gemini_
+🔹 [**BlogifyAI**](https://ai-blog-qc7n.vercel.app/) – Full-stack blogging app with AI-generated articles & dynamic images  
+> _React, Tailwind, Node.js, Express.js, MongoDB, Gemini API, ImageKit_
 
-🔹 [**PhishGuardian**](https://github.com/SaiVardhanNP/PhishGuardian) – ML-based phishing detection system  
-> _Python, Flask, scikit-learn_
+🔹 [**SmartTrip AI**](https://github.com/SaiVardhanNP/ai-travel-planner) – AI travel planner with personalized itineraries & Google OAuth  
+> _React, Firebase, Gemini API, Google OAuth_
 
 ---
 
